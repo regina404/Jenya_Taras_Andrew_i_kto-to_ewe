@@ -1,12 +1,20 @@
-# database_basics_template
 
-Шаблон репозиторію для виконання лабораторних робіт з курсу "Організація баз даних"
+# Система управління відкритими даними ИВ 93
 
-*Для виконання лабораторних робіт необхідно зробити ```fork``` цього репозіторію, склонувати вже власний репозіторій та розміщувати документацію (результати виконання лабораторних робіт) у відповідних діректоріях. 
-В цьому файлі необхідно вказати назву проекту (тему лабораторних робіт). Коротку загальну характеристику
-проекту, контактні дані виконавців.*
+# Участники
+Тарас Калайда (<a href="https://github.com/Inspirati679" target="_blank"> GitHub </a> |  Gmail:taraskalaida@gmail.com )
 
-[Теми проєктів](./guidelines/themes.md)
+Андрей Кочерга (<a href="https://github.com/anrikolo" target="_blank"> GitHub </a> | Gmail:anrikolo413393@gmail.com )
+
+Роман Колесников (<a href="https://github.com/Panhead32" target="_blank"> GitHub </a> | Gmail:orientir116@gmail.com )
+
+Маловица Станислав (<a href="" target="_blank"> GitHub </a> | Gmail: )
+
+Красулин Евгений (<a href="https://github.com/JenyaKrasulin" target="_blank"> GitHub </a> | Gmail:jenya.krasulin@gmail.com )
+
+Регина Слюсарь (<a href="https://github.com/regina404" target="_blank"> GitHub </a> | Gmail:Regina11012002@gmail.com )
+
+Даниил Линийчук (<a href="" target="_blank"> GitHub </a> | Gmail:Liniychuk27@gmail.com )
 
 [Методичні вказівки](./guidelines/guidelines.md)
 
