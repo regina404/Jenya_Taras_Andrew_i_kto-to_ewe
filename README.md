@@ -8,7 +8,7 @@
 
 Роман Колесников (<a href="https://github.com/Panhead32" target="_blank"> GitHub </a> | Gmail:orientir116@gmail.com )
 
-Маловица Станислав (<a href="" target="_blank"> GitHub </a> | Gmail: )
+Маловица Станислав (<a href="https://github.com/smalovitsa" target="_blank"> GitHub </a> | Gmail: )
 
 Красулин Евгений (<a href="https://github.com/JenyaKrasulin" target="_blank"> GitHub </a> | Gmail:jenya.krasulin@gmail.com )
 
