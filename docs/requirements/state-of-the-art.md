@@ -94,6 +94,9 @@
 
 ## Посилання
 
-*[Розділ містить повний список всіх документів, про які згадується.]*
-
 https://data.gov.ua/
+https://stockmarket.gov.ua/
+https://thedigital.gov.ua/
+https://data.rada.gov.ua/open
+https://wanted.mvs.gov.ua/
+
