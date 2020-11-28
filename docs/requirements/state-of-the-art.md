@@ -68,13 +68,10 @@
 
 ## Посилання
 
-https://data.gov.ua/
+ - [LuckFind](https://www.luckfind.me/ru/)
 
-https://stockmarket.gov.ua/
+ - [OLX](https://www.olx.ua)
 
-https://thedigital.gov.ua/
+ - [Obyava](https://obyava.ua/ru/kiev)
 
-https://data.rada.gov.ua/open
-
-https://wanted.mvs.gov.ua/
-
+ - [Besplatka](https://besplatka.ua/kiev)
