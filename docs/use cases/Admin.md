@@ -32,6 +32,7 @@ EX AD02MIN Модератора з таким ім'ям не існує.
 ***ОСНОВНИЙ СЦЕНАРІЙ:*** 
 ![uml](http://www.plantuml.com/plantuml/png/TPAxIWDH48RxVOeXjXPYcJG9Q66XZOsja4K3vaBsM0XR9Au8GY0Waiw8Rx2kMGtPoxx2p1lvpmH2XAG8XpFv_fbl3jiCtFNGtNVllB3LxdPweMS5ykeyvozUoeXZUIFEkUG5ftPzv5BF1fXtlO8Qyyeu70N8YbSIKOrVUObKp1aGOBM65ru-1CxlXjQ_idRFCa4aaKZplw0hfGc1cBZIltIkNW78amtF9MfiZEkOavWVSZ8X6rd8RAVrGBK_PCOBLAmpY9_ry6IZct6A3jD_lf-w9q8fsiPRi4ptFb2lxtmQTcvk7HqC_NPzlK-EPAOFHgTNr3evEZu_kzXQPeubHa1oax94ehwMD35LEoHvuP9alCVAPg1GQ1o_Ry2x9GFN7tXDlzV6L_07)
 
+
 ***ID:*** UC...
 
 ***НАЗВА:*** Створення набору даних.
