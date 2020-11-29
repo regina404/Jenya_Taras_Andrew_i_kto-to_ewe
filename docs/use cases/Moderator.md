@@ -66,3 +66,20 @@
 
 ![uml](http://www.plantuml.com/plantuml/png/TL6zJiCm6Dpz59_Aoe0OqwL8TAmg5GRMIea0YJOeCGDIXfAgGanPgaxyl49Q6XIIEds5ynjnE1CI7JpuVkwxp-x5UXpfXycTIWQX7qHZ7KQ9Sg0e3wzei4LXPyXjYiREXC0QfGEM0eCSQxiYJbaEGsPnB3P3XHBVOXVqFACGxEbW5D4DDIdFayswdF26lBsYQYCh62htgEnSElXmmmjyecQgiVDVSQUhael7M0UJH7cKD0obZDJ1Kbqr3NKWqUtrZPQZAF0zTg9nXn8rE5hwLp8OdlTFJaTdbyFHd-Vmy6vJrYYnOu5bwzpO5ROkeMO_msuPDtz18uuoGgR1brl-loKEzOnrUAzwmTJdf_m0)
 
+
+
+***ID:*** UC...
+    
+***НАЗВА:*** Додавання категорії.
+    
+***УЧАСНИКИ:*** Модератор, система
+
+***ПЕРЕДУМОВИ:*** Модератор ввійшов в систему.
+
+***РЕЗУЛЬТАТ:*** Категорію додано.
+
+***ВИКЛЮЧНІ СИТУАЦІЇ:*** EX MODE03RATOR Категорія с такою назвою вже існує.
+
+***ОСНОВНИЙ СЦЕНАРІЙ:***
+
+![uml](http://www.plantuml.com/plantuml/png/RPB1IiD048Rl-nH3VG71MtEfO8-bK3ruBJIeO1j9ruEGGrhr9WfIselQLqXZeg5jabVuzusSIJ2GabEtCzzyE_-IpbGFNNq_lbLUpndPxb0xhgUA8gasFf0XGcny16QEpFZ4XGsIeh0Wf0YmCKkfHtnCkVDiyTodyFndXcq54fzJ7i-nDO_KmaBS9ISjESJubajO-Dgob7V-CDNss6FVcjaGCIC1ViWy2OKzQzYmCs_yKyeOaYrIALNAGhYoQWdRU6TMPX8pDozbab-4eZpSPTMOg1vcRPQ8690bVR4ANCjGvLqqfBNKnD4skJTNrvgEN7lK9kJCxv5W9pXrBwdNF-iUdmnEB_g3WonVdC578YyYUfaCPI4ny7py_oGvKncPcImgLrUTfinJxTofZZqPyTVn1m00)
