@@ -1,11 +1,6 @@
 # Модель прецедентів
-
-В цьому файлі необхідно перелічити всі документи, розроблені в проекті та дати посилання на них.
-
-*Модель прецедентів повинна містити загальні оглядові діаграми та специфікації прецедентів.*
-
-*Вбудовування зображень діаграм здійснюється з використанням сервісу plantuml.com. Сервіси взаємодіють так, як зобраажено на діаграмі нижче.*
-
+# Use case діаграми
+### Загальна діаграма:
 ![uml](http://www.plantuml.com/plantuml/png/VP9DIiDG58NdNSMRQGCHKd-K8bBG1GZYJ2X1YnHh1Hjd3jhwuyoAICGYw1BIQ9fI-xE5SxVWIhovhpyXASxoxZtdE-SzKgWvzgLpTLx9E6MdKbBxzl6PVLhA6yRXxbxHMh4C8vF74xun81T3Sgb1JQh3eoP6LCyhkwOEBcfb5hrZnB9WmTBYRJkQe2Vs6_YiUPZjSnbHRL-RfeR9K8xQBmFJt57BKQyYbpgguXN-4hKGScnV8LGO90l0urbFyS5JwASBw7rM9V0vmRSZqaJPP0h60lGdq7GQkV2p2TJgOjIG8PrOGmPvFEpHdGRaveGDVTT9yZ2w2xfnbbZ9JHatPyOnD_LPypWpqQs4nwEZGugn9OmFkMM0B_nGY_MQmR0k0aMDAKnIf8lYpyvl_OtL_fHgpQbhGlr48DbzkYUNMd5Foh4kZcU4dFsYNrvxml_Vib2gdl2__GS0)
 
 
@@ -30,3 +25,5 @@
 ![uml](http://www.plantuml.com/plantuml/png/DT31IiD040RW-pp542yQS24Ub8X8eTApbzw4icwt4cop9PcUHD0gUkj9AlWKLGhcOE8hpBnHTrDoc_cP-GQcLv8kQ36R0cKqjNYjpRs-i-V3_jNeH9q2kJcImrj7v6OupWfhA7CvQ4Ekm8Y_k94dhkHPblB2FxoHzmXrYHC3yps5WKfKWW-0k2YjqQN5A8w7_T5P7D_a_CaR_kV6BzUoQeabLoYlhVpdIzxwYPghq0JSYmaUfEbWaARm21E3nvSXWv1VA7MunrNIyX-UtdReckiEzj6Rh6KL-0Rvsz_uvUe8UZOV-t_i0000)
 
 ![uml](http://www.plantuml.com/plantuml/png/RP3FIiD04CRlynH3l6Z0GBneHAHGwTbBRq9Pjri9jjcIJ4yYrAfux4rG45-X_ea4rFWAiw_WapYRggVUllqMVh-PQHMaSfgCXa0f3GqUAdsgJinkjttGsugsWUmOoUAn9R8ZxAUvqPJQ39GccsF0zroxALVkmitS9J_pmjq4g0eSQ1WlKUXHSHJZ6I1E2gDLOJ08mswxjnE6Hna_SYc8ab_utStvLH0phb1ORroYWAyQnGVN7i-VxXObFdrFxznScihhn17ZMf9qEaa2vp3GkBdlE_3zNXIjBtLHt0WVUF6laL3_3l_LF5OOPRrh-VkB6z0oMLzEzWC0)
+
+# Сценарії варіантів використання
