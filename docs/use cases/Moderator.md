@@ -17,7 +17,7 @@
 
 ***ID:*** UC...
     
-***НАЗВА:*** Додавання.
+***НАЗВА:*** Додавання об'яв.
     
 ***УЧАСНИКИ:*** Модератор, система
 
@@ -25,7 +25,40 @@
 
 ***РЕЗУЛЬТАТ:*** Об'яву додано.
 
-***ВИКЛЮЧНІ СИТУАЦІЇ:*** EX Mode01rator Модератор з таким ім'ям вже існує.
+***ВИКЛЮЧНІ СИТУАЦІЇ:*** EX MODE01RATOR Модератор з таким ім'ям вже існує.
 
 ***ОСНОВНИЙ СЦЕНАРІЙ:***
-![uml](http://www.plantuml.com/plantuml/png/NP2nIiDG58Rt-nI7EhWuw9eiBTXH2jN1LKZGWaabkGv2XjeWujGbEAdF4CL0g6dw2lzv8tyEMA7JJSxvltk-SuUvlyhyVNBhYb6KpDB2MK5SW3Vq-4QZ2zIwHAyBOU4JhHKg-pdK5RwqF1AUQor5dvXxHYC42HlOXhph7VQfZrWRp6F3nDQe0Qh_z21qnVb3xkEa86UD_N6XI-S-bcnsVUFb88kZGB1blqEB7t20Z2_bR78wFZwPZYucqzrg0JvqIVqMdPPQ6SKBNyss8zlGQgChxlE2NcXBOqerRDQxdPYhJUVF9lVpEpUCquZF-0i0)    
+![uml](http://www.plantuml.com/plantuml/png/NP2nIiDG58Rt-nI7EhWuw9eiBTXH2jN1LKZGWaabkGv2XjeWujGbEAdF4CL0g6dw2lzv8tyEMA7JJSxvltk-SuUvlyhyVNBhYb6KpDB2MK5SW3Vq-4QZ2zIwHAyBOU4JhHKg-pdK5RwqF1AUQor5dvXxHYC42HlOXhph7VQfZrWRp6F3nDQe0Qh_z21qnVb3xkEa86UD_N6XI-S-bcnsVUFb88kZGB1blqEB7t20Z2_bR78wFZwPZYucqzrg0JvqIVqMdPPQ6SKBNyss8zlGQgChxlE2NcXBOqerRDQxdPYhJUVF9lVpEpUCquZF-0i0)
+
+
+***ID:*** UC...
+    
+***НАЗВА:*** Додавання об'яв.
+    
+***УЧАСНИКИ:*** Модератор, система
+
+***ПЕРЕДУМОВИ:*** Модератор ввійшов в систему.
+
+***РЕЗУЛЬТАТ:*** Об'яву додано.
+
+***ВИКЛЮЧНІ СИТУАЦІЇ:*** EX MODE01RATOR Модератор з таким ім'ям вже існує.
+
+***ОСНОВНИЙ СЦЕНАРІЙ:***
+![uml](http://www.plantuml.com/plantuml/png/NP2nIiDG58Rt-nI7EhWuw9eiBTXH2jN1LKZGWaabkGv2XjeWujGbEAdF4CL0g6dw2lzv8tyEMA7JJSxvltk-SuUvlyhyVNBhYb6KpDB2MK5SW3Vq-4QZ2zIwHAyBOU4JhHKg-pdK5RwqF1AUQor5dvXxHYC42HlOXhph7VQfZrWRp6F3nDQe0Qh_z21qnVb3xkEa86UD_N6XI-S-bcnsVUFb88kZGB1blqEB7t20Z2_bR78wFZwPZYucqzrg0JvqIVqMdPPQ6SKBNyss8zlGQgChxlE2NcXBOqerRDQxdPYhJUVF9lVpEpUCquZF-0i0) 
+
+
+***ID:*** UC...
+    
+***НАЗВА:*** Редакція об'яв.
+    
+***УЧАСНИКИ:*** Модератор, система
+
+***ПЕРЕДУМОВИ:*** Модератор ввійшов в систему.
+
+***РЕЗУЛЬТАТ:*** Об'яву змінено.
+
+***ВИКЛЮЧНІ СИТУАЦІЇ:*** Відсутні.
+
+***ОСНОВНИЙ СЦЕНАРІЙ:***
+![uml](http://www.plantuml.com/plantuml/png/XL4xJiD04Ett5AiqD9o0DE4Cd00fAP1mGDWKI2vCpATB6fGqGAuGB5kiZ3U-mfiRyNOiO0K5XJtss_UPcPsasUbLTfsSc_nucfpDSwE0DKTunXur6YcmamNsKbW2Rt0AFEdFWQnGINbeMLifhToJzuZ6uXsThE7XA7LZkcq6G9QKwiTTi4H7hmTPop9mNZJ9oIrQZM3nZEdLUuHDx3aQc_pa9ircIKxbLef0vEEb3CgUp9gyIWUe1urL3e7lqA-f_m_V_ZBysqGyOhoTEEHL5bGxTDgbDbm5OzOE7sZWgL_n8CnZ-MfujaCxjFlZ6dQQPXUNPZARJtbxdm00)
+
