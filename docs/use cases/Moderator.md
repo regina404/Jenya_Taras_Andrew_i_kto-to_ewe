@@ -30,7 +30,7 @@
 ***ВИКЛЮЧНІ СИТУАЦІЇ:*** EX MODE01RATOR Модератор з таким ім'ям вже існує.
 
 ***ОСНОВНИЙ СЦЕНАРІЙ:***
-![uml](http://www.plantuml.com/plantuml/png/VL5DIiD06DtFAOQk53o1sVG2hZn1eTbP8ycu4BAeZGXkB8XafsT8Yu4XjTChl7SZtvI8H3IxcUzxFs_UJ0itoztjuigK5zaypMSkoqjp75fpZdTiuBb4mrUB3W6Vh2mshF21rcBBMeT3162B7Lhi4ImE2FrAX7wyvzgUw1OYywYuGk2IrMaYdpSqFqx_2lH8CJtlqNsdagSOdP9Dy398v2DqafZoygvmwQ8KVmZOSJtYP__AcmoQKaLSQUrZCv9YBU93H8hRy94rdyyidrIB8YksPDgu-bsUbsqpylB2PJTccbxFzLTV) 
+![uml](http://www.plantuml.com/plantuml/png/NP2nIWD148RxVOeX5ZOMsjur4KmP0j72Dd2B2YOdUsiXR77c4B5ASrYfpt2A2qUyN5vXvety6L7HQkzc_c_dcnqMVkRyzVpIX76UMJVpkGj6YsGIVkAUtpbAoOqikPUIK7ZbLWkr_kpAYj-asYESQwb8xf2xvqW00IlOfhZh-UjJRdcjC8uD4bkb1bp_fWUf2SStXRVp04uR_yUbPf5xI-xYxDpJZhDPGhn5l-EMFnW3Q7HAuydHQFzWUdWocVvPB-4NMKg9Q2ULr4hYqaSrxi17c6raXPqUk2SOmnfY4StcPo_a6bNwDYfyVcM6Tf7XEJy1) 
 
 
 ***ID:*** UC...
