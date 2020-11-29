@@ -6,13 +6,6 @@
 
 *Вбудовування зображень діаграм здійснюється з використанням сервісу plantuml.com. Сервіси взаємодіють так, як зобраажено на діаграмі нижче.*
 
-![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/boldak/database_basics_template/master/src/uml/example.puml)
+![uml](http://www.plantuml.com/plantuml/png/VP9BIlDG5CVdNSMTVLy34L8VQ14fw084SIQKe4MAjOADCmUrFfnP4ObO15r2UcrDY7riuN-su4eykJSa8IbE0lUSy_kT1wbr7FlSkJXjbPocqsg8NVlmn3vkL0rZVtkdRYrPXb6guX4ZJCZ5b5oweXvruL4FC-fMXTqHUsUT9XUzOSPbumL9YxE3A890uTUGN7EVv2ibzTsyD4qjIv-QLm7Jt1B_exdgFDH16o-G_wWFdzk60hx093y0F8u5WX-UG5WSGEVB8gUlAFqWCiMLFRPWheGobXQxaGjPpgcM5wkcB1bc9cIHny60RhMWaXfMubrrvodp7huoBhfX3_SlWAi9ECSCaj6715BTGeoZKnJ0DGM-gzN6-CGt7taKWsmQ_dHVEI8HQD9AoNL5VZ35zGZfZbpgPva2iQ689_ZiVzOdrOp_zv5gZVOH_xI_)
 
-*Для вбудовування необхідно використовувати:*
-```
-![IMAGE TITLE](http://www.plantuml.com/plantuml/proxy?cache=no&src=URL_OF_PUML_SOURCE)
-```
-Наприклад, зображена вище діаграма вбудована за допомогою:
-```
-![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/boldak/database_basics_template/master/src/uml/example.puml)
-```
+
