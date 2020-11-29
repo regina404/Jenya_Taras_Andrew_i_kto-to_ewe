@@ -44,5 +44,5 @@ EX AD02MIN Модератора з таким ім'ям не існує.
 
 ***ВИКЛЮЧНІ СИТУАЦІЇ:*** 
 EX AD03MIN Набір даних з таким ім'ям уже існує.
-[!uml](http://www.plantuml.com/plantuml/png/TP2nJiCm68HtFyMliZ8WiJLBAy7000iBAr8Yg4HIb9W1oKDfnC022-e64c_WHbH4eJ6lSFyRSMcbiD3D_k__pdSU5VOojtVfZN7ZE9rapcm6OePunnArpk3rLT32umkLbX6LDyxcr1xGRDM6Ui0F6YrbW0-A5GBHkblRmajTw4pmoMFB-UCWCkxylh19wkZO8_fClt-1o6HJcqW-kRgsifSdyL3uOi0QDRwx879y8UEZWyFJaxE-35lel0k2jPPqtX2LBcXBajoAvgs-x8i-8GWRiHMph2XwNl-QSDVl2bROwQqP9LdCV_m5)
+![uml](http://www.plantuml.com/plantuml/png/TP2nJiCm68HtFyMliZ8WiJLBAy7000iBAr8Yg4HIb9W1oKDfnC022-e64c_WHbH4eJ6lSFyRSMcbiD3D_k__pdSU5VOojtVfZN7ZE9rapcm6OePunnArpk3rLT32umkLbX6LDyxcr1xGRDM6Ui0F6YrbW0-A5GBHkblRmajTw4pmoMFB-UCWCkxylh19wkZO8_fClt-1o6HJcqW-kRgsifSdyL3uOi0QDRwx879y8UEZWyFJaxE-35lel0k2jPPqtX2LBcXBajoAvgs-x8i-8GWRiHMph2XwNl-QSDVl2bROwQqP9LdCV_m5)
 
