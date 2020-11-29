@@ -5,7 +5,7 @@
 
 ***УЧАСТНИКИ:*** Адміністратор, система.
 
-***ПЕРЕДУМОВИ:*** Відсутні.
+***ПЕРЕДУМОВИ:*** Адміністратор ввійшов в систему.
 
 ***РЕЗУЛЬТАТ:*** Модератора зареєстровано в системі.
 
@@ -22,7 +22,7 @@ EX AD01MIN Модератора з таким іменем вже зареєст
 
 ***УЧАСТНИКИ:*** Адміністратор, система.
 
-***ПЕРЕДУМОВИ:*** Відсутні.
+***ПЕРЕДУМОВИ:*** Адміністратор ввійшов в систему.
 
 ***РЕЗУЛЬТАТ:*** Модератора видалено з системи.
 
@@ -32,4 +32,17 @@ EX AD02MIN Модератора з таким ім'ям не існує.
 ***ОСНОВНИЙ СЦЕНАРІЙ:*** 
 ![uml](http://www.plantuml.com/plantuml/png/TPAxIWDH48RxVOeXjXPYcJG9Q66XZOsja4K3vaBsM0XR9Au8GY0Waiw8Rx2kMGtPoxx2p1lvpmH2XAG8XpFv_fbl3jiCtFNGtNVllB3LxdPweMS5ykeyvozUoeXZUIFEkUG5ftPzv5BF1fXtlO8Qyyeu70N8YbSIKOrVUObKp1aGOBM65ru-1CxlXjQ_idRFCa4aaKZplw0hfGc1cBZIltIkNW78amtF9MfiZEkOavWVSZ8X6rd8RAVrGBK_PCOBLAmpY9_ry6IZct6A3jD_lf-w9q8fsiPRi4ptFb2lxtmQTcvk7HqC_NPzlK-EPAOFHgTNr3evEZu_kzXQPeubHa1oax94ehwMD35LEoHvuP9alCVAPg1GQ1o_Ry2x9GFN7tXDlzV6L_07)
 
+***ID:*** UC...
+
+***НАЗВА:*** Створення набору даних.
+
+***УЧАСТНИКИ:*** Адміністратор, система.
+
+***ПЕРЕДУМОВИ:*** Адміністратор ввійшов в систему.
+
+***РЕЗУЛЬТАТ:*** Створено новий набір даних.
+
+***ВИКЛЮЧНІ СИТУАЦІЇ:*** 
+EX AD03MIN Набір даних з таким ім'ям уже існує.
+[!uml](http://www.plantuml.com/plantuml/png/TP2nJiCm68HtFyMliZ8WiJLBAy7000iBAr8Yg4HIb9W1oKDfnC022-e64c_WHbH4eJ6lSFyRSMcbiD3D_k__pdSU5VOojtVfZN7ZE9rapcm6OePunnArpk3rLT32umkLbX6LDyxcr1xGRDM6Ui0F6YrbW0-A5GBHkblRmajTw4pmoMFB-UCWCkxylh19wkZO8_fClt-1o6HJcqW-kRgsifSdyL3uOi0QDRwx879y8UEZWyFJaxE-35lel0k2jPPqtX2LBcXBajoAvgs-x8i-8GWRiHMph2XwNl-QSDVl2bROwQqP9LdCV_m5)
 
