@@ -66,3 +66,28 @@ EX AD04MIN набора даних з таким ім'ям не існує.
 ***ОСНОВНИЙ СЦЕНАРІЙ:*** 
 ![uml](http://www.plantuml.com/plantuml/png/RP2_IiDG58VtynI7kZeuE2LB2peuwEBYAYHemQIIN0SXGqrmS2f8wARFS1igXln9N-5ttiXZBbYG3dVvVlSRlZDDpMrYdg87ocP1D8yp6W6JXqziKCiILaf63ujlL5BukdmeotLxGUFMHlS1EpHIy0JlgB65HOlwzvkJDxAM9O-yL_uwyIcxVavD66NaxHLPIVbFg9pWKxmm8IVpktl3HqaOU8mT1dIgjcXW-Vo6PsSdfvSNLtynMY6vDjJef93I6PMiiHtD5b_eqSlgcEKD0skHLackk8DbLFiIVVPmYK-fMJpID8m3lUCF)
 
+
+***ID:*** UC...
+
+  ***НАЗВА:*** Відправлення повідомлення користувачам.
+
+***УЧАСТНИКИ:*** Адміністратор, система.
+
+***ПЕРЕДУМОВИ:*** Адміністратор ввійшов в систему.
+
+***РЕЗУЛЬТАТ:*** Відправлено повідомлення користувачам.
+
+![uml](http://www.plantuml.com/plantuml/png/VL5DIiD06DtFAJwwKl04PbFFu0c4TY6OAcPS2BFGLXGt5aIoqpDCWuKXpSyLtdSZtuIeH6nsuNi_x-NDDBDdr_OclJ3kP9QUBvpf3cAEyO4DWjx1wvkWH8DALuADhl29hQ3Gd1zj9A303blKQ0GjcXwYe3_NkfQ3Q45oq7jTqgEWxnDHSWyJfht3_-RjjUcPkem-AB-xCPcAalqcU1tq2f4wIOmxlStiF7NK3maxNO_aoR-jFQhaPoyEHOYKk0-jDAVmeLDLP3zghYz7eiySXvKx8xeJ-ZjXOAmV-VFCNbwPwNmnusjz0G00)
+
+
+***ID:*** UC...
+
+  ***НАЗВА:*** Відправлення повідомлення модераторам.
+
+***УЧАСТНИКИ:*** Адміністратор, система.
+
+***ПЕРЕДУМОВИ:*** Адміністратор ввійшов в систему.
+
+***РЕЗУЛЬТАТ:*** Відправлено повідомлення модераторам.
+
+![uml](http://www.plantuml.com/plantuml/png/VL5DIiD06DtFAJwwKl04PbFFu0c4TY6OAYOkX2ng8u8R2oBPwHccnS2GskaLthkHRqfKAjhTpFUzdpTlXaLvTbtUv1UkEXdbvvFARGVcZl661GAdy7mnT8ZuO6rOiCOxMiEIZGwR1C0IAxHO8nesYFrAX7wyvjmET8k9kLMS8NBA-Z2JpolyZzE_0ZrIpC0xT5-fv2b6fsG3FEya2Wawo5nrUbkKuxmIVnUmudoFd_sLD_jkIVLmfbL8hKY6ZKZt2IMUvmCRFXqP7n5DSHLP4crQ_IukoDBlUNLHNbwvuNWoqXzz0W00)
