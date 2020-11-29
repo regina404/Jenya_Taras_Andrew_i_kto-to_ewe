@@ -49,3 +49,20 @@
 
 ![uml](http://www.plantuml.com/plantuml/png/XL4xJiD05Ept5AiqD9o0DBa05IU857S48tifa5oOc4-ND2XfW5mXMBPO6JkvmhmRCVjSn0f5YkJPi_EPjvwaRfguX_cjoQxZMPHCNPnaHa5hhl21FIhKacCd2-mbjmI-uHLurvSBMQ6Kuj9oDb9OUI7l3RN53rfPeuEdr8_fjka1MLAg3y_14YszNcKjoy3vr2GlJsWqWgDZp46zHzWCFKTZazqyfYwQPrHk9Gz4_ZefWl90PaLUgGjKlSOgXy0nTBZvsGBR_wQdHOPh3cxeDEXB5dJmQBMj5Y-3EMUBNzICxMJ5Wx2NvL_DinsQllRHETnjwk9xCudkPloIVm00)
 
+
+***ID:*** UC...
+    
+***НАЗВА:*** перегляд набору даних.
+    
+***УЧАСНИКИ:*** Модератор, система
+
+***ПЕРЕДУМОВИ:*** Модератор ввійшов в систему.
+
+***РЕЗУЛЬТАТ:*** Набір даних переглянуто.
+
+***ВИКЛЮЧНІ СИТУАЦІЇ:*** EX MODE02RATOR набір даних з таким ім'ям не знайдено.
+
+***ОСНОВНИЙ СЦЕНАРІЙ:***
+
+![uml](http://www.plantuml.com/plantuml/png/TP0nJiD054JxFSLNQauGDxa05IU857S48tifaBO8ZY94vGQb0dm56p0ojdTzXVatOjWE2HUMvPdvR_xtfh3RtDxjhusxp7PflhLPxamKnQpnWe1FT7f0eoM27eH2YpuApmAF1gsUgJFMmDCvNOXM6D3ZM_J4cKTqWfaJH55zPwRayw1LmePNWk8dXeZaopCvOz2Zh537yWuV64drUlmDhnBZhkuBc-uT2JK2eOpHMbmg-NFV6czQajjZ8f4ZCyZGC_C14qOMUfPLFEK9GQBbXKx0LxpclwsMYWkRtPfDUhFZN_u1)
+
