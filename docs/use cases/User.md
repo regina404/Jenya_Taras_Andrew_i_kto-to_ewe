@@ -31,6 +31,6 @@ EX USE01R Невірно вибрано формат фото.
 ***ВИКЛЮЧНІ СИТУАЦІЇ:*** 
 Відсутні.
 
-**ОСНОВНИЙ СЦЕНАРІЙ:***
+**ОСНОВНИЙ СЦЕНАРІЙ:**
 
 ![uml](http://www.plantuml.com/plantuml/png/ZP5DIiH048NtEKKn6pUUOBAPEuW74CpEKPd4XP25auYw40CoZ22eL-W92OR9ZrTuTIDVDGJZRXQXAzsltgkFMiJ9sIgvMLu4wMaShTB0_qimnmUSPcXqZJshZQ274zOz1lnWhxdCy0R7Ua39syRKelSOz0wTvhCmI4zkuoHQfdHxrIqgUZLepMsY4rHejH1yJyngVhqMuJZL7EzUpt4qqvmQfu_2esH3PTdwB8peHr--F-XMNqGpE4PusOZ1g5Bpy438BpzwngYQpZuCpN-wpP_zWDsH5kRlKmKxdzTCK3urCnI3jmxFR1ayExGZEn-e6WoWFXPzid9jeze5kWaLUzmqEEGIhww3HNHvpiN-0W00)
