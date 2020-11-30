@@ -77,12 +77,11 @@
 
 ## Посилання
 
-- [LuckFind](https://www.luckfind.me/ru/)
+- [Gapminder](https://www.gapminder.org/)
 
-- [OLX](https://www.olx.ua/zhivotnye/byuro-nahodok/q-%D0%BD%D0%B0%D0%B9%D0%B4%D0%B5%D0%BD/)
+- [The World Databank](https://data.worldbank.org/)
 
-- [Obyava](https://obyava.ua/ru/kiev)
+- [Eurostat](https://ec.europa.eu/eurostat/home?)
 
-- [Besplatka](https://besplatka.ua/kiev)
+- [Dataverse](https://dataverse.org/#)
 
-- [Teremok](https://teremok.org.ua/)
