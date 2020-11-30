@@ -20,8 +20,3 @@
 
 [Звітність](https://docs.google.com/spreadsheets/d/1ePb9OBB7ox0E5-GAh2r6ZU3j--PpAROCUfqzA17kL20/edit?usp=sharing)
 
-[Адмін](https://github.com/JenyaKrasulin/Jenya_Taras_Andrew_i_kto-to_ewe/blob/master/docs/use%20cases/Admin.md)
-
-[Модератор](https://github.com/JenyaKrasulin/Jenya_Taras_Andrew_i_kto-to_ewe/blob/master/docs/use%20cases/Moderator.md)
-
-[Користувач](https://github.com/JenyaKrasulin/Jenya_Taras_Andrew_i_kto-to_ewe/blob/master/docs/use%20cases/User.md)
