@@ -83,3 +83,7 @@
 ***ОСНОВНИЙ СЦЕНАРІЙ:***
 
 ![uml](http://www.plantuml.com/plantuml/png/RPB1IiD048RlUOgble3WhRbKiCTIg1wy5X9Ki8qawq788Qrw4mK9zQBs5TgOO6YQz1N-UIDdLYAavfHbvfjlvr_I2_JOrxUJQoiSU8xhZxNdXvOfAgkBTrH8aL645SrHKQIui4Pk2h52YHNMj91woiUIEuysptqOFgSPDd-WudF9upjiw5vr41ktuQGbXmnVSWaBdpks5PxU1TgTXEnRCfl87Wo9Znw4mvP5x2ZeHJv6nvZiKKhfdzHkfEpYbMcPocbEJxzflf68T7_qhJLLCz2I5aWPC8kALU1cZZfptBhSrDEkygykBhKwy5sdgrXTOOiSXU2gVwu6mvF-uT7e-6musilooHaYvF8cefV9H1OoXW9P_IWxfYf5CrbKhguxhPa3xTrOFNVgy1_o0m00)
+
+[Адмін](https://github.com/JenyaKrasulin/Jenya_Taras_Andrew_i_kto-to_ewe/blob/master/docs/use%20cases/Admin.md)
+
+[Користувач](https://github.com/JenyaKrasulin/Jenya_Taras_Andrew_i_kto-to_ewe/blob/master/docs/use%20cases/User.md)
