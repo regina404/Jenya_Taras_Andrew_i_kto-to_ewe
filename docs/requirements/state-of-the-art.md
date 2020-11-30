@@ -65,8 +65,8 @@
 | Gapminder                   | +              | -                             | -                                | -                                  | -                                      | +                      | +                     |
 | The World Bank DataBank     | -              | +                             | +                                | -                                  | -                                      | +                      | +                     |
 | Google Public Data Explorer | +              | +                             | -                                | +                                  | -                                      | -                      | -                     |
-| Statistics Poland           | +              | -                             | -                                | -                                  | -                                      | -                      | +                     |
-| Eurostat                    | -              | -                             | -                                | -                                  | +                                      | -                      | +                     |
+                          | -                                      | -                      | +                     |
+| Eurostat                    | -              | -                             | -                                | -                                  | +                                      | -                      | +                     |  
 
 
 
