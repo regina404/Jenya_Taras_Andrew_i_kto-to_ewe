@@ -52,3 +52,7 @@ EX USE01R Невірно вибрано формат фото.
 **ОСНОВНИЙ СЦЕНАРІЙ:**
 
 ![uml](http://www.plantuml.com/plantuml/png/fL8zJeH06Etd59DjR3o1D7i7um5Cf7FLB5YOK2oBkfqcPaDXebu1SSOGTXckyBuR-M0m6oAT5VFzl9_tXNaKdo_ZsyMbIiwYS9celjRg16yeP8rAKjHyRJKQ59hl1WujQidq31-mieB55tRoZ4Qo3g5HuXjMIohtS9pluTWgECyrdvz7t2rHpGALdDv5SRX8l1oC5p9mnAubGpkejYCTSs091jiaUEsrgW59FTdqUsojM3mTG98TQtwx2F90r0QM4bDHWl_SOPplHN8OabJOUPhwhryobBmHDvlVqx7zA7ddlcNf9aEm8A8VTL57LtadErMmfwVj9BE76osfDmFB6PD7yVMDceTN5_mvVW00)
+
+[Адмін](https://github.com/JenyaKrasulin/Jenya_Taras_Andrew_i_kto-to_ewe/blob/master/docs/use%20cases/Admin.md)
+
+[Модератор](https://github.com/JenyaKrasulin/Jenya_Taras_Andrew_i_kto-to_ewe/blob/master/docs/use%20cases/Moderator.md)
