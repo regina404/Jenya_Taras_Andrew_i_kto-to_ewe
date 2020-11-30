@@ -103,3 +103,7 @@ EX AD04MIN набора даних з таким ім'ям не існує.
 ***ОСНОВНИЙ СЦЕНАРІЙ:*** 
 
 ![uml](http://www.plantuml.com/plantuml/png/RP2_IiDG58VtynI7kZeuE2LB2peuwEBYAYHemQIIN0SXGqrmS2f8wARFS1igXln9N-5ttiXZBbYG3dVvVlSRlZDDpMrYdg87ocP1D8yp6W6JXqziKCiILaf63ujlL5BukdmeotLxGUFMHlS1EpHIy0JlgB65HOlwzvkJDxAM9O-yL_uwyIcxVavD66NaxHLPIVbFg9pWKxmm8IVpktl3HqaOU8mT1dIgjcXW-Vo6PsSdfvSNLtynMY6vDjJef93I6PMiiHtD5b_eqSlgcEKD0skHLackk8DbLFiIVVPmYK-fMJpID8m3lUCF)
+
+[Модератор](https://github.com/JenyaKrasulin/Jenya_Taras_Andrew_i_kto-to_ewe/blob/master/docs/use%20cases/Moderator.md)
+
+[Користувач](https://github.com/JenyaKrasulin/Jenya_Taras_Andrew_i_kto-to_ewe/blob/master/docs/use%20cases/User.md)
